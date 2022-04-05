@@ -1,3 +1,6 @@
 .devcontainer
 
 *.log
+*.pickle
+*.tsv
+*.zip
